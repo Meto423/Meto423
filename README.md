@@ -4,9 +4,8 @@ I'm an **Embedded Software Engineer** and **Researcher** with a background in El
 
 ## 🛠️ Languages & Tools
 - **Languages**: Python, C
-- **Expertise**: Embedded systems, microcontrollers, hardware/software integration
-- **Tools & Platforms**: STM32, Arduino, Raspberry Pi, RTOS, Linux, Git
-
+- **Expertise**: Embedded systems, microcontrollers, hardware/software integration, signal processing, digital design
+- **Tools & Platforms**: STM32, Arduino, Raspberry Pi, Linux, Git, FPGA's
 ## 👨‍💻 About Me
 - 🎓 Studied Electrical-Electronics Engineering
 - 🔬 Researcher in embedded systems and hardware-software co-design
@@ -15,6 +14,7 @@ I'm an **Embedded Software Engineer** and **Researcher** with a background in El
 
 ## 📫 How to reach me
 - GitHub: [Meto423](https://github.com/Meto423)
+- LinkedIn: [Metin Demirci](https://www.linkedin.com/in/metin-kutay-demirci-60b392227/)
 - (You can add more contact or portfolio links here!)
 
 ## 📈 GitHub Stats
