@@ -1,28 +1,30 @@
-# Hi there, I'm Meto423 👋
+# Hi, I'm Metin 👋
 
-I'm an **Embedded Software Engineer** and **Researcher** with a background in Electrical-Electronics Engineering. I have a passion for working with embedded devices, combining low-level hardware knowledge with robust software development skills.
+### Embedded Software Engineer | Optical Imaging & Space Systems
 
-## 🛠️ Languages & Tools
-- **Languages**: Python, C
-- **Expertise**: Embedded systems, microcontrollers, hardware/software integration, signal processing, digital design, satellites,
-- **Tools & Platforms**: STM32, Arduino, Raspberry Pi, Linux, Git, FPGA's
-## 👨‍💻 About Me
-- 🎓 Studied Electrical-Electronics Engineering
-- 🔬 Researcher in embedded systems and hardware-software co-design
-- 🧩 Love solving complex problems at the intersection of hardware and software
-- 🚀 Always eager to learn new technologies and share knowledge
+I am an Embedded Software Engineer with a background in Electrical-Electronics Engineering. I work on real-time embedded systems where software, electronics, sensors, optics, and signal-processing algorithms come together.
 
-## 📫 How to reach me
-- GitHub: [Meto423](https://github.com/Meto423)
-- LinkedIn: [Metin Demirci](https://www.linkedin.com/in/metin-kutay-demirci-60b392227/)
+## 🔭 Interests
 
-## 📈 GitHub Stats
-![Meto423's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meto423&show_icons=true&theme=radical)
+* Embedded software and real-time systems
+* RISC-V, PolarFire SoC, FPGA, and Embedded Linux
+* Optical imaging systems and star tracker algorithms
+* PSF-based image processing, motion blur, and centroiding
+* Satellite systems, sensor fusion, and attitude determination
 
-## ⚡ Fun Facts
-- I love metal music, especially Gojira 🤘
-- I believe in lifelong learning and open-source collaboration
+## 🛠️ Technologies
 
----
+**Languages:** C, Python, MATLAB
+**Platforms:** PolarFire SoC, RISC-V, STM32, FPGA, Raspberry Pi
+**Tools:** Linux, Git, SoftConsole, Zemax OpticStudio, OpenCV, NumPy, SciPy
 
-*Let's build something amazing with embedded systems!*
+## 📫 Reach Me
+
+* GitHub: [@Meto423](https://github.com/Meto423)
+* LinkedIn: Metin Demirci
+
+## ⚡ Fun Fact
+
+Metal music enthusiast — especially Gojira 🤘
+
+> Building reliable systems at the intersection of embedded software, optics, and intelligent algorithms.
